@@ -6,10 +6,11 @@ Dois exemplos de projeto com Spring Boot criação de Rest API (Backend):
 - Exemplo de Forum - "Curso Alura"
 
 Assuntos abordados:
-Criação de Rotas com método HTTP;
-Mapeamento;
-Repository;
-Segurança;
-Autenticação;
-Exceptions;
-Testes Unitários;
+
+## Criação de Rotas com método HTTP;
+- Mapeamento;
+- Repository;
+- Segurança;
+- Autenticação;
+- Exceptions;
+- Testes Unitários;
